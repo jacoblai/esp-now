@@ -70,10 +70,6 @@ void loop() {
 
 # slave
 ```
-/*
-  Welcome to GND_TO_VCC!! 
-*/
- 
 #include <ESP8266WiFi.h>
 #include <espnow.h>
  
